@@ -464,10 +464,6 @@ GROUP BY Country, Treatment_Cost
 ORDER BY Treatment_Cost;
 
 /*
-key Observation
-*/
-
-/*
 Q20) Can predictive models accurately classify patients as 
 high or low risk for liver cancer based on available features?
 */
