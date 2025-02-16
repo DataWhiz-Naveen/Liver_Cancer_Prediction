@@ -88,4 +88,10 @@ The insights from this project can support **healthcare professionals, researche
 - How does the cost of treatment vary across different countries and economic levels?
 - Can predictive models accurately classify patients as high or low risk for liver cancer based on available features?
 
+# Technologies Used
+- MS SQL for database queries and analysis
+- Power BI and Excels for Data visualization
+
+
+
 
